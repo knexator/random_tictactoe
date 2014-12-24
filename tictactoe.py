@@ -1,4 +1,3 @@
-#import saved_patterns
 from random import randint
 
 
